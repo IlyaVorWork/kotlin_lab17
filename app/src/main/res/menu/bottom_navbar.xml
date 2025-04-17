@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/menu_music"
+            android:icon="@drawable/music_note"
+            android:title="@string/music"/>
+    <item
+            android:id="@+id/menu_books"
+            android:icon="@drawable/library_books"
+            android:title="@string/books"/>
+    <item
+            android:id="@+id/menu_news"
+            android:icon="@drawable/newspaper"
+            android:title="@string/news"/>
+</menu>

@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Lab17</string>
+    <string name="music">Музыка</string>
+    <string name="books">Книги</string>
+    <string name="news">Новости</string>
+
+    <string name="tab_music_pop">Поп</string>
+    <string name="tab_music_disco">Диско</string>
+    <string name="tab_music_rock">Рок</string>
+    <string name="tab_music_classic">Классическая</string>
+    <string name="tab_music_hiphop">Хип-хоп</string>
+    <string name="tab_music_soundtrack">Саундтреки</string>
+
+    <string name="tab_books_new">Новые</string>
+    <string name="tab_books_old">Прочитанные</string>
+    <string name="clear_news">Очистить новости</string>
 </resources>
